@@ -1,0 +1,1902 @@
+{
+  "query": "Такси",
+  "count": 237,
+  "transactions": [
+    {
+      "date": "26.12.2021",
+      "amount": 228.0,
+      "amount_type": "expense",
+      "category": "Такси",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "05.12.2021",
+      "amount": 226.0,
+      "amount_type": "expense",
+      "category": "Такси",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "15.11.2021",
+      "amount": 105.0,
+      "amount_type": "expense",
+      "category": "Такси",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "14.11.2021",
+      "amount": 152.0,
+      "amount_type": "expense",
+      "category": "Такси",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "20.09.2021",
+      "amount": 252.0,
+      "amount_type": "expense",
+      "category": "Такси",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "31.08.2021",
+      "amount": 206.0,
+      "amount_type": "expense",
+      "category": "Такси",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "24.08.2021",
+      "amount": 487.0,
+      "amount_type": "expense",
+      "category": "Такси",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "02.07.2021",
+      "amount": 154.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "01.07.2021",
+      "amount": 110.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "01.07.2021",
+      "amount": 182.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "26.05.2021",
+      "amount": 1123.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "20.05.2021",
+      "amount": 304.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "12.05.2021",
+      "amount": 120.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "12.05.2021",
+      "amount": 165.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "11.05.2021",
+      "amount": 168.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "05.05.2021",
+      "amount": 511.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "29.04.2021",
+      "amount": 138.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "13.04.2021",
+      "amount": 165.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "06.04.2021",
+      "amount": 240.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "27.03.2021",
+      "amount": 498.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.03.2021",
+      "amount": 432.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.03.2021",
+      "amount": 420.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "16.03.2021",
+      "amount": 477.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "16.03.2021",
+      "amount": 281.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "01.03.2021",
+      "amount": 236.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "17.02.2021",
+      "amount": 428.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "24.01.2021",
+      "amount": 865.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.01.2021",
+      "amount": 236.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "16.12.2020",
+      "amount": 287.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "09.12.2020",
+      "amount": 219.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "09.12.2020",
+      "amount": 206.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "04.12.2020",
+      "amount": 205.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "27.11.2020",
+      "amount": 209.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "26.11.2020",
+      "amount": 285.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "26.11.2020",
+      "amount": 251.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "20.11.2020",
+      "amount": 240.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "19.11.2020",
+      "amount": 241.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "19.11.2020",
+      "amount": 232.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "11.11.2020",
+      "amount": 318.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "20.10.2020",
+      "amount": 171.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "16.09.2020",
+      "amount": 298.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "15.09.2020",
+      "amount": 266.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "13.09.2020",
+      "amount": 326.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "10.09.2020",
+      "amount": 394.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "09.09.2020",
+      "amount": 90.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "06.09.2020",
+      "amount": 61.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "05.09.2020",
+      "amount": 119.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "01.09.2020",
+      "amount": 91.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "31.08.2020",
+      "amount": 144.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "28.08.2020",
+      "amount": 84.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "28.08.2020",
+      "amount": 203.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "19.08.2020",
+      "amount": 112.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "19.08.2020",
+      "amount": 110.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "18.08.2020",
+      "amount": 204.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "12.08.2020",
+      "amount": 40.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "12.08.2020",
+      "amount": 402.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "29.07.2020",
+      "amount": 256.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "11.07.2020",
+      "amount": 99.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "10.07.2020",
+      "amount": 482.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "12.06.2020",
+      "amount": 91.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "31.05.2020",
+      "amount": 611.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "30.05.2020",
+      "amount": 689.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.05.2020",
+      "amount": 50.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.05.2020",
+      "amount": 572.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "24.05.2020",
+      "amount": 91.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "24.05.2020",
+      "amount": 91.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "08.05.2020",
+      "amount": 87.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "05.05.2020",
+      "amount": 474.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "05.05.2020",
+      "amount": 118.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "05.05.2020",
+      "amount": 104.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "21.04.2020",
+      "amount": 607.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "19.04.2020",
+      "amount": 601.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "17.04.2020",
+      "amount": 98.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "15.03.2020",
+      "amount": 110.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "12.03.2020",
+      "amount": 134.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "12.03.2020",
+      "amount": 141.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "21.02.2020",
+      "amount": 101.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "21.02.2020",
+      "amount": 118.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "16.02.2020",
+      "amount": 298.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "10.02.2020",
+      "amount": 94.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "10.02.2020",
+      "amount": 83.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "05.02.2020",
+      "amount": 88.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "05.02.2020",
+      "amount": 95.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "03.02.2020",
+      "amount": 184.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "30.01.2020",
+      "amount": 89.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "30.01.2020",
+      "amount": 112.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "27.01.2020",
+      "amount": 92.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "26.01.2020",
+      "amount": 114.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "23.01.2020",
+      "amount": 196.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.01.2020",
+      "amount": 165.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.01.2020",
+      "amount": 118.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.01.2020",
+      "amount": 117.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.01.2020",
+      "amount": 116.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.01.2020",
+      "amount": 116.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "19.01.2020",
+      "amount": 61.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "18.01.2020",
+      "amount": 281.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "18.01.2020",
+      "amount": 188.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "17.01.2020",
+      "amount": 119.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "17.01.2020",
+      "amount": 139.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "16.01.2020",
+      "amount": 192.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "23.12.2019",
+      "amount": 106.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "23.12.2019",
+      "amount": 196.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "22.12.2019",
+      "amount": 211.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "17.12.2019",
+      "amount": 258.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "15.12.2019",
+      "amount": 115.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "11.12.2019",
+      "amount": 221.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "11.12.2019",
+      "amount": 192.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "08.12.2019",
+      "amount": 186.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "08.12.2019",
+      "amount": 513.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "07.12.2019",
+      "amount": 212.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "01.12.2019",
+      "amount": 247.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "24.11.2019",
+      "amount": 313.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "20.11.2019",
+      "amount": 233.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "17.11.2019",
+      "amount": 190.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "12.11.2019",
+      "amount": 82.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "11.11.2019",
+      "amount": 114.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "10.11.2019",
+      "amount": 274.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "08.11.2019",
+      "amount": 186.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "07.11.2019",
+      "amount": 108.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "06.11.2019",
+      "amount": 95.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "03.11.2019",
+      "amount": 148.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "03.11.2019",
+      "amount": 220.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "24.10.2019",
+      "amount": 216.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "19.10.2019",
+      "amount": 208.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "14.10.2019",
+      "amount": 136.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "14.10.2019",
+      "amount": 169.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "11.10.2019",
+      "amount": 127.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "08.10.2019",
+      "amount": 111.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "08.10.2019",
+      "amount": 107.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "07.10.2019",
+      "amount": 204.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "04.10.2019",
+      "amount": 100.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "04.10.2019",
+      "amount": 401.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "03.10.2019",
+      "amount": 289.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "20.09.2019",
+      "amount": 177.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "20.09.2019",
+      "amount": 252.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "19.09.2019",
+      "amount": 211.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "19.09.2019",
+      "amount": 232.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "18.09.2019",
+      "amount": 111.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "17.09.2019",
+      "amount": 148.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "17.09.2019",
+      "amount": 228.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "16.09.2019",
+      "amount": 79.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "28.08.2019",
+      "amount": 392.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "28.08.2019",
+      "amount": 518.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "28.08.2019",
+      "amount": 65.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "28.08.2019",
+      "amount": 256.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "26.08.2019",
+      "amount": 76.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.08.2019",
+      "amount": 154.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.08.2019",
+      "amount": 61.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.08.2019",
+      "amount": 187.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.08.2019",
+      "amount": 86.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.08.2019",
+      "amount": 136.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.08.2019",
+      "amount": 137.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "21.08.2019",
+      "amount": 438.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "21.08.2019",
+      "amount": 245.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "15.08.2019",
+      "amount": 186.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "15.08.2019",
+      "amount": 191.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "13.08.2019",
+      "amount": 146.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "05.08.2019",
+      "amount": 292.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "05.08.2019",
+      "amount": 279.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "30.07.2019",
+      "amount": 219.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.07.2019",
+      "amount": 219.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "24.07.2019",
+      "amount": 212.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "23.07.2019",
+      "amount": 1118.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "16.07.2019",
+      "amount": 148.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "13.07.2019",
+      "amount": 197.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "09.07.2019",
+      "amount": 227.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "25.06.2019",
+      "amount": 135.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "19.06.2019",
+      "amount": 181.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "18.06.2019",
+      "amount": 213.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "18.06.2019",
+      "amount": 448.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "18.06.2019",
+      "amount": 495.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "14.06.2019",
+      "amount": 203.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "14.06.2019",
+      "amount": 226.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "11.06.2019",
+      "amount": 226.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "10.06.2019",
+      "amount": 235.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "09.06.2019",
+      "amount": 581.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "08.06.2019",
+      "amount": 279.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "03.06.2019",
+      "amount": 141.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "02.06.2019",
+      "amount": 305.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "01.06.2019",
+      "amount": 258.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "31.05.2019",
+      "amount": 191.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "27.05.2019",
+      "amount": 185.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "27.05.2019",
+      "amount": 151.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "21.05.2019",
+      "amount": 445.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "18.05.2019",
+      "amount": 365.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "18.05.2019",
+      "amount": 557.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "30.04.2019",
+      "amount": 285.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "21.04.2019",
+      "amount": 242.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "12.03.2019",
+      "amount": 127.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "18.02.2019",
+      "amount": 197.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "14.02.2019",
+      "amount": 212.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "10.02.2019",
+      "amount": 266.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "09.02.2019",
+      "amount": 712.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "27.01.2019",
+      "amount": 229.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "21.01.2019",
+      "amount": 194.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "21.01.2019",
+      "amount": 187.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "23.12.2018",
+      "amount": 238.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "16.12.2018",
+      "amount": 229.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "13.12.2018",
+      "amount": 319.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "01.12.2018",
+      "amount": 563.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "30.11.2018",
+      "amount": 241.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "12.11.2018",
+      "amount": 135.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "12.11.2018",
+      "amount": 244.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "29.10.2018",
+      "amount": 414.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "19.10.2018",
+      "amount": 324.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "18.10.2018",
+      "amount": 153.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "13.10.2018",
+      "amount": 489.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "30.09.2018",
+      "amount": 582.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "30.09.2018",
+      "amount": 190.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "23.09.2018",
+      "amount": 481.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "23.09.2018",
+      "amount": 353.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.09.2018",
+      "amount": 339.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "28.08.2018",
+      "amount": 220.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "17.08.2018",
+      "amount": 111.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "09.08.2018",
+      "amount": 588.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "30.07.2018",
+      "amount": 518.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "29.07.2018",
+      "amount": 381.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "29.07.2018",
+      "amount": 392.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "28.07.2018",
+      "amount": 632.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "28.05.2018",
+      "amount": 485.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.05.2018",
+      "amount": 1533.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "10.05.2018",
+      "amount": 1482.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.04.2018",
+      "amount": 140.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "25.04.2018",
+      "amount": 164.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "24.04.2018",
+      "amount": 173.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "18.04.2018",
+      "amount": 197.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "17.04.2018",
+      "amount": 191.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "17.04.2018",
+      "amount": 207.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "18.03.2018",
+      "amount": 245.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "25.02.2018",
+      "amount": 391.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "29.01.2018",
+      "amount": 430.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "29.01.2018",
+      "amount": 1000.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "4556"
+    },
+    {
+      "date": "24.01.2018",
+      "amount": 375.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "24.01.2018",
+      "amount": 376.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "23.01.2018",
+      "amount": 284.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "22.01.2018",
+      "amount": 154.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    },
+    {
+      "date": "11.01.2018",
+      "amount": 94.0,
+      "amount_type": "expense",
+      "category": "Транспорт",
+      "description": "Яндекс Такси",
+      "card_last_digits": "7197"
+    }
+  ]
+}
