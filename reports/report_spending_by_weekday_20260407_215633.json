@@ -1,0 +1,32 @@
+[
+  {
+    "day_of_week": "Tuesday",
+    "average_spending": -50.0,
+    "transaction_count": 1,
+    "total_spending": -50.0
+  },
+  {
+    "day_of_week": "Wednesday",
+    "average_spending": -225.0,
+    "transaction_count": 2,
+    "total_spending": -450.0
+  },
+  {
+    "day_of_week": "Thursday",
+    "average_spending": -1200.0,
+    "transaction_count": 1,
+    "total_spending": -1200.0
+  },
+  {
+    "day_of_week": "Friday",
+    "average_spending": -1250.0,
+    "transaction_count": 2,
+    "total_spending": -2500.0
+  },
+  {
+    "day_of_week": "Saturday",
+    "average_spending": -800.0,
+    "transaction_count": 1,
+    "total_spending": -800.0
+  }
+]

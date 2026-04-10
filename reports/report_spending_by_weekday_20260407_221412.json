@@ -1,0 +1,44 @@
+[
+  {
+    "day_of_week": "Monday",
+    "average_spending": -761.4979518072289,
+    "transaction_count": 83,
+    "total_spending": -63204.33
+  },
+  {
+    "day_of_week": "Tuesday",
+    "average_spending": -239.98510869565217,
+    "transaction_count": 92,
+    "total_spending": -22078.63
+  },
+  {
+    "day_of_week": "Wednesday",
+    "average_spending": -735.1840845070424,
+    "transaction_count": 71,
+    "total_spending": -52198.07000000001
+  },
+  {
+    "day_of_week": "Thursday",
+    "average_spending": 1336.6560824742267,
+    "transaction_count": 97,
+    "total_spending": 129655.63999999998
+  },
+  {
+    "day_of_week": "Friday",
+    "average_spending": -456.24,
+    "transaction_count": 89,
+    "total_spending": -40605.36
+  },
+  {
+    "day_of_week": "Saturday",
+    "average_spending": -320.28018867924527,
+    "transaction_count": 53,
+    "total_spending": -16974.85
+  },
+  {
+    "day_of_week": "Sunday",
+    "average_spending": -230.421,
+    "transaction_count": 60,
+    "total_spending": -13825.26
+  }
+]

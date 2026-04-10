@@ -1,0 +1,14 @@
+[
+  {
+    "day_type": "Выходной день",
+    "average_spending": -800.0,
+    "transaction_count": 1,
+    "total_spending": -800.0
+  },
+  {
+    "day_type": "Рабочий день",
+    "average_spending": -740.0,
+    "transaction_count": 5,
+    "total_spending": -3700.0
+  }
+]
