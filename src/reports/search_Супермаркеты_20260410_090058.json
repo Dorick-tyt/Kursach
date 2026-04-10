@@ -1,0 +1,14 @@
+{
+  "query": "Супермаркеты",
+  "count": 1,
+  "transactions": [
+    {
+      "date": "15.01.2024",
+      "amount": 1000,
+      "amount_type": "expense",
+      "category": "Супермаркеты",
+      "description": "Магнит",
+      "card_last_digits": "3456"
+    }
+  ]
+}
